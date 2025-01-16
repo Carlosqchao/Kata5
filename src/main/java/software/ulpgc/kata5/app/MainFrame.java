@@ -10,7 +10,7 @@ import java.util.Map;
 import java.util.Random;
 
 public class MainFrame extends JFrame {
-    private Map<String, Command> commands;
+    private final Map<String, Command> commands;
     private PokemonDisplay pokemonDisplay;
 
     public MainFrame(){

@@ -1,9 +1,9 @@
 package software.ulpgc.kata5.architecture.control;
 
-import software.ulpgc.kata5.architecture.view.PokemonDisplay;
 import software.ulpgc.kata5.architecture.io.PokedexAdapter;
 import software.ulpgc.kata5.architecture.io.PokedexDeserializer;
 import software.ulpgc.kata5.architecture.io.PokedexReader;
+import software.ulpgc.kata5.architecture.view.PokemonDisplay;
 
 import java.io.IOException;
 
